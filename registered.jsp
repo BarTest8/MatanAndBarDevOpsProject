@@ -10,7 +10,7 @@
 <h1>Matan And Bar Register Form</h1>
 <h1>Registeration Complete</h1>
 <h1>New textttt</h1>
-<h1>blablala</h1>
+<h1>new demo</h1>
 
 <form action="index.jsp" method="post">
 
